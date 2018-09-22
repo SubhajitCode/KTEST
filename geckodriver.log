@@ -1,0 +1,391 @@
+1513099436494	geckodriver	INFO	geckodriver 0.19.1
+1513099436516	geckodriver	INFO	Listening on 127.0.0.1:63982
+1513099438605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUE\\AppData\\Local\\Temp\\rust_mozprofile.E0krOtJjF2mx"
+1513099440578	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513099445736	Marionette	INFO	Listening on port 63988
+1513099446192	Marionette	DEBUG	Register listener.js for window 4294967297
+1513099446269	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513099447057	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513099447058	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513099448603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513099448940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1513099448998	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513099449966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513099451414	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513099451951	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513099452118	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513099452126	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513099452193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1513099452195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A554%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513099452539	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A554%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513099454612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://myaccount.google.com/?pli=1"
+1513099454654	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1513099454655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1513099456363	Marionette	DEBUG	Received DOM event "pageshow" for "https://myaccount.google.com/?pli=1"
+1513099456394	Marionette	DEBUG	Received DOM event "beforeunload" for "https://myaccount.google.com/?pli=1"
+1513099456809	Marionette	DEBUG	Received DOM event "pagehide" for "https://myaccount.google.com/?pli=1"
+1513099456813	Marionette	DEBUG	Received DOM event "unload" for "https://myaccount.google.com/?pli=1"
+1513099459294	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1513099459304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/login"
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513099461356	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/login"
+1513099461914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513099466193	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/home"
+1513099466469	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/home"
+1513099466470	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/home"
+1513099467426	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1513099467427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1513099467428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1513099467429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1513099467430	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1513099467436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513099469918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1513099471619	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1513099471625	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1513099471641	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+1513099517515	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513099517547	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513099517547	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513099519088	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1513099519089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1513099519107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513099521266	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+[Child 8676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513099825035	geckodriver	INFO	geckodriver 0.19.1
+1513099825050	geckodriver	INFO	Listening on 127.0.0.1:59250
+1513099827175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUE\\AppData\\Local\\Temp\\rust_mozprofile.YfmS6Kxl38Ni"
+1513099828917	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513099833999	Marionette	INFO	Listening on port 59260
+1513099834848	Marionette	DEBUG	Register listener.js for window 4294967297
+1513099834935	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513099835642	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513099835643	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513099837090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513099837424	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1513099837487	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513099838439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513099839871	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513099840397	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513099840571	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513099840576	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513099840625	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1513099840627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A484%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513099841018	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A484%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513099842964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://myaccount.google.com/?pli=1"
+1513099843052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1513099843054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1513099844743	Marionette	DEBUG	Received DOM event "pageshow" for "https://myaccount.google.com/?pli=1"
+1513099844762	Marionette	DEBUG	Received DOM event "beforeunload" for "https://myaccount.google.com/?pli=1"
+1513099845100	Marionette	DEBUG	Received DOM event "pagehide" for "https://myaccount.google.com/?pli=1"
+1513099845104	Marionette	DEBUG	Received DOM event "unload" for "https://myaccount.google.com/?pli=1"
+1513099847471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1513099847491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/login"
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513099849568	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/login"
+1513099850017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513099868145	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/home"
+1513099868275	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/home"
+1513099868276	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/home"
+1513099869436	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1513099869437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1513099869437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1513099869438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1513099869439	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1513099869449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513099872205	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+1513099920661	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513099920697	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513099920697	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513099921807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1513099921808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1513099921818	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513099924930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1513099924934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1513099924959	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+[Parent 9052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513101429451	geckodriver	INFO	geckodriver 0.19.1
+1513101429473	geckodriver	INFO	Listening on 127.0.0.1:60715
+1513101431507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUE\\AppData\\Local\\Temp\\rust_mozprofile.Png6ZqCb5k4i"
+1513101433910	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 72, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513101440596	Marionette	INFO	Listening on port 60721
+1513101441421	Marionette	DEBUG	Register listener.js for window 4294967297
+1513101441476	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513101442456	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513101442457	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513101443849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513101444107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1513101444166	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513101445126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513101446492	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513101447196	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513101447468	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513101447473	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513101447516	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1513101447517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A464%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513101447823	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A464%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513101450018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://myaccount.google.com/?pli=1"
+1513101450078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1513101450079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1513101452396	Marionette	DEBUG	Received DOM event "pageshow" for "https://myaccount.google.com/?pli=1"
+1513101452438	Marionette	DEBUG	Received DOM event "beforeunload" for "https://myaccount.google.com/?pli=1"
+1513101452862	Marionette	DEBUG	Received DOM event "pagehide" for "https://myaccount.google.com/?pli=1"
+1513101452867	Marionette	DEBUG	Received DOM event "unload" for "https://myaccount.google.com/?pli=1"
+1513101455410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1513101455420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/login"
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513101459791	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/login"
+1513101460260	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513101477765	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/home"
+1513101477975	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/home"
+1513101477984	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/home"
+1513101478009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1513101478014	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1513101479254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1513101479254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1513101479255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1513101479256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1513101479256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1513101479274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513101481691	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+[Parent 72, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1513104097260	geckodriver	INFO	geckodriver 0.19.1
+1513104097275	geckodriver	INFO	Listening on 127.0.0.1:1779
+1513104099383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUE\\AppData\\Local\\Temp\\rust_mozprofile.SIenTCdlNQJK"
+1513104104247	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513104112568	Marionette	INFO	Listening on port 1785
+1513104113992	Marionette	DEBUG	Register listener.js for window 4294967297
+1513104114423	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513104115705	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513104115705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513104117882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513104118232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1513104118278	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513104119160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513104120247	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104120826	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104120998	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104121005	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104121071	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1513104121073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A503%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513104121376	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A503%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513104123874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://myaccount.google.com/?pli=1"
+1513104124142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1513104124143	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1513104126291	Marionette	DEBUG	Received DOM event "pageshow" for "https://myaccount.google.com/?pli=1"
+1513104126316	Marionette	DEBUG	Received DOM event "beforeunload" for "https://myaccount.google.com/?pli=1"
+1513104126747	Marionette	DEBUG	Received DOM event "pagehide" for "https://myaccount.google.com/?pli=1"
+1513104126751	Marionette	DEBUG	Received DOM event "unload" for "https://myaccount.google.com/?pli=1"
+1513104129179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1513104129186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/login"
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104131858	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/login"
+1513104132514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513104136516	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/home"
+1513104136710	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/home"
+1513104136711	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/home"
+1513104137965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1513104137965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1513104137966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1513104137967	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1513104137967	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1513104137977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104140437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1513104140441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1513104140478	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+1513104197907	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104197941	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104197941	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104199102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1513104199103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1513104199120	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104201229	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+[Parent 5844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513104293951	geckodriver	INFO	geckodriver 0.19.1
+1513104293966	geckodriver	INFO	Listening on 127.0.0.1:2347
+1513104296168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUE\\AppData\\Local\\Temp\\rust_mozprofile.QZSuSBbasuae"
+1513104298417	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513104305292	Marionette	INFO	Listening on port 2355
+1513104305924	Marionette	DEBUG	Register listener.js for window 4294967297
+1513104305986	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513104307467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513104307468	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513104309051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513104309414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1513104309462	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513104310489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513104311876	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104312484	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104312716	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104312721	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104312769	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1513104312770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A477%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513104313147	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A477%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513104315702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://myaccount.google.com/?pli=1"
+1513104315737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1513104315739	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1513104317540	Marionette	DEBUG	Received DOM event "pageshow" for "https://myaccount.google.com/?pli=1"
+1513104317629	Marionette	DEBUG	Received DOM event "beforeunload" for "https://myaccount.google.com/?pli=1"
+1513104317949	Marionette	DEBUG	Received DOM event "pagehide" for "https://myaccount.google.com/?pli=1"
+1513104317953	Marionette	DEBUG	Received DOM event "unload" for "https://myaccount.google.com/?pli=1"
+1513104320905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1513104320910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/login"
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104323269	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/login"
+1513104323861	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513104336399	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/home"
+1513104336898	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/home"
+1513104336898	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/home"
+1513104338078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1513104338078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1513104338079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1513104338080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1513104338081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1513104338092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104341448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1513104341450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1513104341544	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+1513104473055	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104473093	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104473093	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104474376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1513104474377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1513104474397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104476528	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+[Parent 6352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513104579628	geckodriver	INFO	geckodriver 0.19.1
+1513104579652	geckodriver	INFO	Listening on 127.0.0.1:2853
+1513104581848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BLUE\\AppData\\Local\\Temp\\rust_mozprofile.PC9k8JEQL7Mr"
+1513104584025	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513104590586	Marionette	INFO	Listening on port 2860
+1513104591742	Marionette	DEBUG	Register listener.js for window 4294967297
+1513104591790	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513104593278	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513104593279	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513104594862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513104595165	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1513104595216	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1513104596103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513104597459	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104597937	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104598102	Marionette	DEBUG	Received DOM event "pagehide" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104598109	Marionette	DEBUG	Received DOM event "unload" for "https://accounts.google.com/signin/v2/sl/pwd?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward"
+1513104598173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1513104598175	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A541%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513104598447	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/CheckCookie?hl=en&checkedDomains=youtube&checkConnection=youtube%3A541%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA"
+1513104600686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://myaccount.google.com/?pli=1"
+1513104600777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1513104600778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1513104602494	Marionette	DEBUG	Received DOM event "pageshow" for "https://myaccount.google.com/?pli=1"
+1513104602519	Marionette	DEBUG	Received DOM event "beforeunload" for "https://myaccount.google.com/?pli=1"
+1513104602841	Marionette	DEBUG	Received DOM event "pagehide" for "https://myaccount.google.com/?pli=1"
+1513104602845	Marionette	DEBUG	Received DOM event "unload" for "https://myaccount.google.com/?pli=1"
+1513104605263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1513104605274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/login"
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104607409	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/login"
+1513104607924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513104612860	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/home"
+1513104612978	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/home"
+1513104612980	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/home"
+1513104613953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1513104613954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1513104613956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1513104613957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1513104613959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1513104613971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104617377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1513104617380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1513104617419	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+1513104746464	Marionette	DEBUG	Received DOM event "beforeunload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104746497	Marionette	DEBUG	Received DOM event "pagehide" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104746498	Marionette	DEBUG	Received DOM event "unload" for "https://ktest.kreatryx.com/test-platform/view-solution?test_id=49"
+1513104747749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1513104747750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1513104747756	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ktest.kreatryx.com/home"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106834700-1, line 64: unreachable code after return statement
+1513104751068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1513104751071	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1513104751094	Marionette	DEBUG	Received DOM event "pageshow" for "https://ktest.kreatryx.com/home"
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\BLUE\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
